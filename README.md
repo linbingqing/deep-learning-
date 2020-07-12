@@ -18,97 +18,65 @@
  - 为什么学习深度学习
 
 2. 数学和Python基础知识
-线性代数，微积分和概率论基础知识
-Python基础知识
+  - 线性代数，微积分和概率论基础知识
+  - Python基础知识
 3. 线性模型
-
-线性回归模型
-
-logistic模型
+  - 线性回归模型
+  - logistic模型
 
 4. 简单神经网络
-
-为什么需要多层神经网络
-
-向前传播算法
-
-向后传播算法
-
-神经网络训练完整流程
+  - 为什么需要多层神经网络
+  - 向前传播算法
+  - 向后传播算法
+  - 神经网络训练完整流程
 
 5. 激活函数
-
-为什么需要激活函数
-
-输出层的激活函数
-
-隐藏层的激活函数
+  - 为什么需要激活函数
+  - 输出层的激活函数
+  - 隐藏层的激活函数
 
 6. 正则化
 
-模型评估
-
-欠拟合和过拟合
-
-正则化
+- 模型评估
+- 欠拟合和过拟合
+- 正则化
 
 7.  深度学习 - TensorFlow
 
-安装TensorFlow
-
-TensorFlow基本用法
-
-基于TensorFlow建立线性回归模型
-
-基于TensorFlow建立深度学习模型
+- 安装TensorFlow
+- TensorFlow基本用法
+- 基于TensorFlow建立线性回归模型
+- 基于TensorFlow建立深度学习模型
 
 8. 卷积神经网络(CNN)
-
-卷积层(Convolutional Layer)
-
-池化层(Pool Layer)
-
-卷积神经网络(CNN)
+  - 卷积层(Convolutional Layer)
+  - 池化层(Pool Layer)
+  - 卷积神经网络(CNN)
 
 9. 卷积神经网络(CNN) - TensorFlow
-
-卷积层和池化层，TensorFlow的实现
-
-CNN实例，mnist数据和CIFAR-10数据
-
-CNN建模技巧
+  - 卷积层和池化层，TensorFlow的实现
+  - CNN实例，mnist数据和CIFAR-10数据
+  - CNN建模技巧
 
 10. 循环神经网络(RNN)
-
-词嵌入(Word Embedding)
-
-循环神经网络(RNN)
-
-从零开始实现RNN
+  - 词嵌入(Word Embedding)
+  - 循环神经网络(RNN)
+  - 从零开始实现RNN
 
 11. 搭建深度学习框架
-
-Tensor类和自动求导
-
-为Tensor类添加运算
-
-SGD类和Layer类
-
-词嵌入和循环神经网络
+  - Tensor类和自动求导
+  - 为Tensor类添加运算
+  - SGD类和Layer类
+  - 词嵌入和循环神经网络
 
 12. 长短期记忆(LSTM)
-
-简单RNN模型的缺陷
-
-长短期记忆(LSTM)
-
-门控循环单元(GRU)
+  - 简单RNN模型的缺陷
+  - 长短期记忆(LSTM)
+  - 门控循环单元(GRU)
 
 13. 循环神经网络(RNN) - Tensorflow
-
-LSTM-TensorFlow
-
-GRU-TensorFlow
+  - LSTM-TensorFlow
+  - GRU-TensorFlow
 
  
 
